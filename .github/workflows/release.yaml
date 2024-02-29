@@ -11,9 +11,10 @@ jobs:
         goarch: [ amd64, arm, arm64 ]
     steps:
       - uses: actions/checkout@v2
-      - run: |
-          apt update -y
-          apt install -y libnotify-dev libpulse-dev libmp3lame-dev
+      - uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: libnotify-dev libpulse-dev libmp3lame-dev
+          version: 1.0
       - uses: wangyoucao577/go-release-action@v1.22
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
