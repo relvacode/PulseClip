@@ -15,6 +15,7 @@ jobs:
         with:
           packages: libnotify-dev libpulse-dev libmp3lame-dev
           version: 1.0
+          execute_install_scripts: true
       - uses: wangyoucao577/go-release-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
