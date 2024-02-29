@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PulseClip
+GenericName=Audio Capture
+Exec=pulseclip --notify
+Comment=Capture sound clips from a PulseAudio stream
+Type=Application
+Categories=Audio
+Terminal=false

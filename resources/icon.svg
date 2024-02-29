@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="21.454545"
+     inkscape:cx="11.908898"
+     inkscape:cy="8.3432203"
+     inkscape:window-width="2544"
+     inkscape:window-height="1384"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 11,14.5 c 0,4.666665 7,4.666665 7,0 0,-4.6666646 -7,-4.6666646 -7,0"
+     id="path5"
+     style="stroke:#ffffff;fill:none;stroke-opacity:1" />
+  <path
+     d="m 19,14.5 c 0,5.999997 -9,5.999997 -9,0 0,-5.9999974 9,-5.9999974 9,0"
+     id="path4"
+     style="fill:none" />
+  <path
+     d="m 17,14.5 c 0,3.333332 -5,3.333332 -5,0 0,-3.333332 5,-3.333332 5,0"
+     id="path3"
+     style="stroke:none;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="m 4.5,10 c 0,2.485281 2.0147186,4.5 4.5,4.5 0,0.819 0.179,1.596 0.5,2.294 V 17.5 c 0,0.666666 -1,0.666666 -1,0 V 15.478 C 5.667653,15.219443 3.4995995,12.844124 3.5,10 c 0,-0.6666664 1,-0.6666664 1,0"
+     id="path2"
+     style="stroke:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
+  <path
+     d="M 9,13 C 9.07,13 9.14,12.998 9.21,12.993 9.32,12.606 9.47,12.236 9.658,11.889 8.3580051,12.341912 6.9997659,11.376632 7,10 V 5.001 c 0,-2.6666655 4,-2.6666655 4,0 v 5 c 0,0.092 -0.006,0.183 -0.018,0.272 C 11.295218,10.011747 11.636674,9.7863458 12,9.601 V 5 C 12,1.0000017 6,1.0000017 6,5 v 5 c 0,1.656854 1.3431458,3 3,3"
+     id="path1"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.81818182;stroke-dasharray:none;stroke:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="rec" />
+</svg>
