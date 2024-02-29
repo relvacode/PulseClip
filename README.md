@@ -11,3 +11,9 @@ Continuously record and create clips of pulse audio streams
   - `libnotify-devel`
   - `pulseaudio-libs-devel`
   - `lame-devel`
+
+#### Ubuntu
+
+  - `libnotify-dev`
+  - `libpulse-dev`
+  - `libmp3lame-dev`
